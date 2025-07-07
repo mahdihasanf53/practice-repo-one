@@ -4,5 +4,6 @@ div{
     margin: 10px;
     border: 10px;
     border-radius: 10px;
-    
+    box-shadow: 2px 2px 2.5px black;
+
 }
