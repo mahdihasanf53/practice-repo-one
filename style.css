@@ -1,9 +1,17 @@
 div{
     background-color: floralwhite;
-    color: red;
+    color: rgb(22, 84, 37);
     margin: 10px;
     border: 10px;
     border-radius: 10px;
     box-shadow: 2px 2px 2.5px black;
+    text-align: justify;
+    padding: 10px;
 
+
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1.5px 1.5px black;
+    color: red;
 }
